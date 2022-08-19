@@ -1,0 +1,12 @@
+{
+  "name": "chop-block",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JonahFidel/ChopBlock.git",
+  "author": "jonahfidel <jonahfidel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "howler": "^2.2.3"
+  }
+}
